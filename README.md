@@ -1,4 +1,4 @@
-# JavaBasics_N_Projects
+# Java_JS_Basics_N_Projects
 * This Java Basics and Projects Repo looks at Java Basics with sample laboratories and questions.
 * It also has some worked on basic sample java applications 
 
