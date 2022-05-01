@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76c523fa-c4a0-41f2-978b-f48d4e46b89b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../AnimalQuiz/src/BabyAnimalsQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AnimalQuiz/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AnimalQuiz/src/myscript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AnimalQuiz/src/mystyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Eduard_Idris/CalorieTracker/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Builders/Builders how it works/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Builders/Builders how it works/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Builders/Builders implementation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Builders/Builders implementation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Builders/Function literals with receiver/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Builders/Function literals with receiver/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Builders/Html builders/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Builders/Html builders/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Builders/String and map builders/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Builders/String and map builders/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Builders/The function apply/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Builders/The function apply/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Builders/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Builders/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Classes/Data classes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Classes/Data classes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Classes/Extension functions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Classes/Extension functions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Classes/Rename on import/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Classes/Rename on import/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Classes/Sealed classes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Classes/Sealed classes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Classes/Smart casts/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Classes/Smart casts/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Classes/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Classes/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/All Any and other predicates/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/All Any and other predicates/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Associate/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Associate/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Compound tasks/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Compound tasks/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Filter map/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Filter map/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/FlatMap/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/FlatMap/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Fold/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Fold/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Getting used to new style/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Getting used to new style/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/GroupBy/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/GroupBy/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Introduction/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Introduction/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Max min/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Max min/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Partition/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Partition/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Sequences/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Sequences/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Sort/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Sort/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Sum/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/Sum/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Collections/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Conventions/Comparison/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Conventions/Comparison/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Conventions/For loop/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Conventions/For loop/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Conventions/Invoke/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Conventions/Invoke/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Conventions/Operators overloading/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Conventions/Operators overloading/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Conventions/Ranges/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Conventions/Ranges/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Conventions/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Conventions/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Generics/Generic functions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Generics/Generic functions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Generics/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Generics/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/Default arguments/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/Default arguments/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/Hello, world/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/Hello, world/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/Lambdas/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/Lambdas/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/Named arguments/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/Named arguments/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/Nothing type/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/Nothing type/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/Nullable types/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/Nullable types/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/String templates/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/String templates/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/Triple-quoted strings/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/Triple-quoted strings/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Introduction/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Properties/Delegates examples/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Properties/Delegates examples/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Properties/Delegates how it works/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Properties/Delegates how it works/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Properties/Lazy property/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Properties/Lazy property/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Properties/Properties/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Properties/Properties/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Properties/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/Properties/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kotlin Koans/course-remote-info.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ec3eud7z" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="28UDAOYZdtTyozdlGKbXd7r6za2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76c523fa-c4a0-41f2-978b-f48d4e46b89b" name="Changes" comment="" />
+      <created>1651262132569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651262132569</updated>
+      <workItem from="1651262589727" duration="3137000" />
+      <workItem from="1651266930173" duration="514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
