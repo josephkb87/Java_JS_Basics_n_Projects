@@ -1,0 +1,97 @@
+
+n
+java:S1450ı"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶
+n
+java:S1450ş"WRemove the "jButton2" field and declare it as a local variable in the relevant methods.(¤½ÃÜ
+s
+java:S1450ÿ"WRemove the "jButton3" field and declare it as a local variable in the relevant methods.(ĞäğËıÿÿÿÿ
+s
+java:S1450€"WRemove the "jButton4" field and declare it as a local variable in the relevant methods.(€„ˆÎÿÿÿÿÿ
+s
+java:S1450"WRemove the "jButton5" field and declare it as a local variable in the relevant methods.(â¦Î©ûÿÿÿÿ
+n
+java:S1450‚"WRemove the "jButton6" field and declare it as a local variable in the relevant methods.(á®İş
+r
+java:S1450ƒ"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+s
+java:S1450…"WRemove the "jLabel11" field and declare it as a local variable in the relevant methods.(‰Ó‚©øÿÿÿÿ
+n
+java:S1450†"WRemove the "jLabel12" field and declare it as a local variable in the relevant methods.(¶“¡
+r
+java:S1450‡"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450ˆ"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450‰"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+r
+java:S1450‹"VRemove the "jLabel6" field and declare it as a local variable in the relevant methods.(¸ôÂøÿÿÿÿ
+m
+java:S1450Œ"VRemove the "jLabel7" field and declare it as a local variable in the relevant methods.(×ê˜Ÿ
+m
+java:S1450"VRemove the "jLabel8" field and declare it as a local variable in the relevant methods.(å»«¢
+r
+java:S1450"VRemove the "jLabel9" field and declare it as a local variable in the relevant methods.(Ì’óĞşÿÿÿÿ
+r
+java:S1450"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+r
+java:S1450"VRemove the "jPanel2" field and declare it as a local variable in the relevant methods.(õ òçüÿÿÿÿ
+w
+java:S1450‘"[Remove the "jTabbedPane1" field and declare it as a local variable in the relevant methods.(†¦§Íÿÿÿÿÿ
+A
+java:S1172í"*Remove this unused method parameter "evt".(‚À‡ä
+F
+java:S1172€"*Remove this unused method parameter "evt".(¹¾ûüÿÿÿÿ
+@
+java:S1172—"*Remove this unused method parameter "evt".(Š–ÿG
+R
+java:S1854´";Remove this useless assignment to local variable "result2".(…”´·
+A
+java:S1172ª"*Remove this unused method parameter "evt".(™ÃŠñ
+C
+java:S1481³",Remove this unused "result2" local variable.(ìîó¦
+F
+java:S1172Â"*Remove this unused method parameter "evt".(°’ûÿÿÿÿ
+N
+java:S1135Ã"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+@
+java:S1172Æ"*Remove this unused method parameter "evt".(ªÖ×1
+N
+java:S1135Ç"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172Ê"*Remove this unused method parameter "evt".(è¿é¦
+F
+java:S1172Ò"*Remove this unused method parameter "evt".(ø¨Ì¾ûÿÿÿÿ
+F
+java:S1197Ü"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147ë"ECombine this catch with the one at line 489, which has the same body.(¨¦Š½
+\
+java:S2147í"ECombine this catch with the one at line 489, which has the same body.(ã€ 
+[
+java:S2147ï"ECombine this catch with the one at line 489, which has the same body.(ñÎ¯%
+d
+java:S1192F"IDefine a constant instead of duplicating this literal "Broadway" 7 times.(ûÇ¸Åùÿÿÿÿ
+k
+java:S1192Â"ODefine a constant instead of duplicating this literal "Viner Hand ITC" 6 times.(è¢‹úøÿÿÿÿ
+c
+java:S1192ù"LDefine a constant instead of duplicating this literal "The result:" 4 times.(¶Å‰Œ
+C
+java:S1604Y"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿ
+>
+java:S1604a"(Make this anonymous inner class a lambda(ÿóÎ×
+C
+java:S1604h"(Make this anonymous inner class a lambda(‹ıÉ¼üÿÿÿÿ
+D
+java:S1604Ñ"(Make this anonymous inner class a lambda(¤•áúÿÿÿÿ
+?
+java:S1604×"(Make this anonymous inner class a lambda(ŸÂ½ß
+>
+java:S1604à"(Make this anonymous inner class a lambda(¥Šîj
+D
+java:S1604é"(Make this anonymous inner class a lambda(üåêøÿÿÿÿ
+D
+java:S1604ò"(Make this anonymous inner class a lambda(Åûÿ¾øÿÿÿÿ
+D
+java:S1604õ"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íÃİ“şÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†šü
