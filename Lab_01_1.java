@@ -56,7 +56,7 @@ public class Lab_01_1 {
 		        r = Math.sqrt(a);
 		        System.out.println("sqrt(a) = " + r);
 		        r = Math.cbrt(d);
-		        System.out.println("cbrt(d) = " + r);
+		        System.out.println("sqrt(d) = " + r);
 		        r = Math.sqrt( Math.pow(c,2) + Math.pow(d,2));
 		        System.out.println("sqrt(c^2 + d^2) = " + r);
 		        r = Math.signum(b);
