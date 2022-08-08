@@ -1,3 +1,4 @@
 # Java_JS_Basics_And_Projects
-This repo was originally made for [Java Basics](https://github.com/josephkb87/JavaBasis), 
-different projects merged the two repos into one branch 
+## Java and Jacascript projects merged two repos into one.
+Separated Repo files are in the [JS_Files]directory(https://github.com/josephkb87/Java_JS_Basics_n_Projects/tree/main/JS_Files), 
+a
